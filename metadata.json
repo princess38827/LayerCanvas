@@ -1,0 +1,6 @@
+{
+  "name": "OctaCanvas",
+  "description": "8-layer creative studio canvas with embedded per-layer and artwork metadata, supporting PNG and JPG exports at customizable resolutions and quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OctaCanvas</string>
+    <string name="cd_undo">Undo last action</string>
+    <string name="cd_redo">Redo action</string>
+    <string name="cd_layers">Manage 8 layers</string>
+    <string name="cd_metadata">Edit image and layer metadata</string>
+    <string name="cd_export">Export and download composite image</string>
+    <string name="cd_layer_visibility">Toggle layer visibility</string>
+    <string name="cd_layer_lock">Toggle layer lock</string>
+    <string name="cd_move_layer_up">Move layer up</string>
+    <string name="cd_move_layer_down">Move layer down</string>
+    <string name="cd_fit_canvas">Reset canvas zoom and pan</string>
+    <string name="cd_import_photo">Import photo to active layer</string>
+    <string name="cd_clear_layer">Clear active layer</string>
+    <string name="cd_gemini_ai">Open Gemini AI Studio</string>
+</resources>
